@@ -1,6 +1,6 @@
 ﻿
 
-Shader"ShaderFromScarach/Fixed-Function/1.5 IlluminColTextureSpecular"
+Shader"ShaderFromScarach/Fixed-Function/1.6 IlluminColTextureSpecular"
 {  
     //-------------------------------【属性】-----------------------------------------  
     Properties   
