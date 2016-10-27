@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://Machu_Pichu_Wall/Machu_Pichu_Wall" label="var01" >
+  <presetinput identifier="$outputsize" uid="2872914125" type="8" value="9,9" />
+  <presetinput identifier="Joint_Thickness" uid="2937234977" type="0" value="0.898" />
+  <presetinput identifier="Detail" uid="2937240048" type="0" value="1" />
+  <presetinput identifier="Rock_Color" uid="3521978822" type="2" value="0.125,0.251,0.231" />
+  <presetinput identifier="$randomseed" uid="4233045663" type="4" value="2010867036" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Machu_Pichu_Wall/Machu_Pichu_Wall" label="var02" >
+  <presetinput identifier="$outputsize" uid="2872914125" type="8" value="9,9" />
+  <presetinput identifier="Saturation" uid="2936042115" type="0" value="0.428" />
+  <presetinput identifier="Joint_Thickness" uid="2937234977" type="0" value="0.144" />
+  <presetinput identifier="Detail" uid="2937240048" type="0" value="0" />
+  <presetinput identifier="Rock_Color" uid="3521978822" type="2" value="0.561,0.133,0.247" />
+  <presetinput identifier="$randomseed" uid="4233045663" type="4" value="-1809791186" />
+ </sbspreset>
+</sbspresets>

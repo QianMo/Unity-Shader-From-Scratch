@@ -1,0 +1,38 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://tiles_019/tiles_019" label="var01">
+  <presetinput identifier="Tiles_Amount_Y" uid="483090517" type="4" value="1"/>
+  <presetinput identifier="$randomseed" uid="829352639" type="4" value="287598031"/>
+  <presetinput identifier="Tiles_Amount_X" uid="1663767513" type="4" value="1"/>
+  <presetinput identifier="Normal" uid="1665251895" type="0" value="0.761"/>
+  <presetinput identifier="Light_Angle" uid="1665252080" type="0" value="0.114"/>
+  <presetinput identifier="Weathering" uid="1668758276" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1713175789" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_019/tiles_019" label="var02">
+  <presetinput identifier="Tiles_02_Color" uid="483069848" type="2" value="0.404,0.408,0.424"/>
+  <presetinput identifier="Tiles_01_Color" uid="483069871" type="2" value="0.255,0.263,0.275"/>
+  <presetinput identifier="Tiles_Amount_Y" uid="483090517" type="4" value="16"/>
+  <presetinput identifier="Tiles_Color_Variation" uid="483093203" type="0" value="0.51"/>
+  <presetinput identifier="$randomseed" uid="829352639" type="4" value="287598031"/>
+  <presetinput identifier="Tiles_Amount_X" uid="1663767513" type="4" value="16"/>
+  <presetinput identifier="Normal" uid="1665251895" type="0" value="0.549"/>
+  <presetinput identifier="Light_Angle" uid="1665252080" type="0" value="0.114"/>
+  <presetinput identifier="Weathering" uid="1668758276" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="1713175789" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_019/tiles_019" label="var03">
+  <presetinput identifier="Tiles_02_Color" uid="483069848" type="2" value="0.404,0.408,0.424"/>
+  <presetinput identifier="Tiles_01_Color" uid="483069871" type="2" value="0.255,0.263,0.275"/>
+  <presetinput identifier="Joints_Scale" uid="483073109" type="0" value="1"/>
+  <presetinput identifier="Tiles_Amount_Y" uid="483090517" type="4" value="16"/>
+  <presetinput identifier="Tiles_Color_Variation" uid="483093203" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="829352639" type="4" value="287598031"/>
+  <presetinput identifier="Tiles_Amount_X" uid="1663767513" type="4" value="16"/>
+  <presetinput identifier="Dust" uid="1663787174" type="0" value="0.779"/>
+  <presetinput identifier="Normal" uid="1665251895" type="0" value="0.549"/>
+  <presetinput identifier="Emboss" uid="1665251944" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="1665252080" type="0" value="0.4"/>
+  <presetinput identifier="Weathering" uid="1668758276" type="0" value="0.895"/>
+  <presetinput identifier="$outputsize" uid="1713175789" type="8" value="9,9"/>
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ceramic_01/Ceramic_01" label="var01" >
+  <presetinput identifier="Hue_Shift" uid="313316348" type="0" value="0.471" />
+  <presetinput identifier="Normal" uid="313684190" type="0" value="0.608" />
+  <presetinput identifier="Dirt" uid="313687070" type="0" value="0.61" />
+  <presetinput identifier="$outputsize" uid="369817028" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_01/Ceramic_01" label="var02" >
+  <presetinput identifier="Contrast" uid="303997158" type="0" value="0.309" />
+  <presetinput identifier="Angle" uid="303998682" type="0" value="0.725" />
+  <presetinput identifier="Hue_Shift" uid="313316348" type="0" value="0.543" />
+  <presetinput identifier="Saturation" uid="313316351" type="0" value="0.392" />
+  <presetinput identifier="Normal" uid="313684190" type="0" value="0.608" />
+  <presetinput identifier="Dirt" uid="313687070" type="0" value="0.93" />
+  <presetinput identifier="$outputsize" uid="369817028" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="1098441622" type="4" value="-563283641" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_01/Ceramic_01" label="var03" >
+  <presetinput identifier="Contrast" uid="303997158" type="0" value="0.309" />
+  <presetinput identifier="Angle" uid="303998682" type="0" value="0.725" />
+  <presetinput identifier="Hue_Shift" uid="313316348" type="0" value="0.636" />
+  <presetinput identifier="Saturation" uid="313316351" type="0" value="0.392" />
+  <presetinput identifier="Normal" uid="313684190" type="0" value="0.608" />
+  <presetinput identifier="Dirt" uid="313687070" type="0" value="0.562" />
+  <presetinput identifier="Tile_X" uid="323218860" type="4" value="9" />
+  <presetinput identifier="Tile_Y" uid="323218863" type="4" value="9" />
+  <presetinput identifier="$outputsize" uid="369817028" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="1098441622" type="4" value="-1145534267" />
+ </sbspreset>
+</sbspresets>

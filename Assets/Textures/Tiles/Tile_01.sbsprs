@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Tile_01/Tile_01" label="var01" >
+  <presetinput identifier="Dirt" uid="2749843658" type="0" value="0.503" />
+  <presetinput identifier="Interspace" uid="2749849450" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="2786236265" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Color" uid="3703804599" type="2" value="0.812,0.835,0.835" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tile_01/Tile_01" label="var02" >
+  <presetinput identifier="Depth" uid="2725062835" type="0" value="0.426" />
+  <presetinput identifier="Age" uid="2749641758" type="0" value="1" />
+  <presetinput identifier="Dirt" uid="2749843658" type="0" value="1" />
+  <presetinput identifier="Interspace" uid="2749849450" type="0" value="0.02" />
+  <presetinput identifier="$outputsize" uid="2786236265" type="8" value="10,10" />
+  <presetinput identifier="Tiles_Color" uid="3703804599" type="2" value="0.835,0.651,0.518" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Tile_01/Tile_01" label="var03" >
+  <presetinput identifier="Emboss" uid="2724533360" type="0" value="1.836" />
+  <presetinput identifier="Depth" uid="2725062835" type="0" value="-0.006" />
+  <presetinput identifier="Age" uid="2749641758" type="0" value="0" />
+  <presetinput identifier="Dirt" uid="2749843658" type="0" value="0" />
+  <presetinput identifier="Interspace" uid="2749849450" type="0" value="0.287" />
+  <presetinput identifier="$outputsize" uid="2786236265" type="8" value="10,10" />
+  <presetinput identifier="Tiles_Color" uid="3703804599" type="2" value="0.42,0.451,0.431" />
+ </sbspreset>
+</sbspresets>

@@ -1,0 +1,35 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://tiles_017/tiles_017" label="var01">
+  <presetinput identifier="$randomseed" uid="2225138878" type="4" value="107365778"/>
+  <presetinput identifier="Pattern_Disorder" uid="2835453667" type="0" value="0.156"/>
+  <presetinput identifier="Pattern_Scale" uid="2835461916" type="0" value="0.308"/>
+  <presetinput identifier="Tiles_Color" uid="2835585442" type="2" value="0.632,0.632,0.612"/>
+  <presetinput identifier="$outputsize" uid="3553819372" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_017/tiles_017" label="var02">
+  <presetinput identifier="$randomseed" uid="2225138878" type="4" value="701821953"/>
+  <presetinput identifier="Pattern_Scale" uid="2835461916" type="0" value="1"/>
+  <presetinput identifier="Tiles_Color" uid="2835585442" type="2" value="0.632,0.632,0.612"/>
+  <presetinput identifier="Tiling" uid="2835758280" type="4" value="10"/>
+  <presetinput identifier="Dirtiness" uid="2835804267" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="2838417212" type="0" value="0.17"/>
+  <presetinput identifier="$outputsize" uid="3553819372" type="8" value="9,9"/>
+  <presetinput identifier="Luminosity" uid="3599647575" type="0" value="0.428"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_017/tiles_017" label="var03">
+  <presetinput identifier="$randomseed" uid="2225138878" type="4" value="1423028705"/>
+  <presetinput identifier="Background_Color" uid="2835424440" type="2" value="0.282,0.282,0.282"/>
+  <presetinput identifier="Pattern_Disorder" uid="2835453667" type="0" value="1"/>
+  <presetinput identifier="Pattern_Scale" uid="2835461916" type="0" value="1"/>
+  <presetinput identifier="Tiles_Color" uid="2835585442" type="2" value="0.208,0.208,0.231"/>
+  <presetinput identifier="Tiling" uid="2835758280" type="4" value="10"/>
+  <presetinput identifier="Dirtiness" uid="2835804267" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="2838417212" type="0" value="0.195"/>
+  <presetinput identifier="$outputsize" uid="3553819372" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3599647554" type="0" value="0.509"/>
+  <presetinput identifier="Luminosity" uid="3599647575" type="0" value="0.555"/>
+  <presetinput identifier="Normal" uid="3599744054" type="0" value="0.987"/>
+  <presetinput identifier="Emboss" uid="3599744105" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="3599744241" type="0" value="0.564"/>
+ </sbspreset>
+</sbspresets>

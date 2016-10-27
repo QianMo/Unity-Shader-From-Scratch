@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://tiles_021/tiles_021" label="var01">
+  <presetinput identifier="Dirtiness" uid="2340681306" type="0" value="0.857"/>
+  <presetinput identifier="Irregular_Edges" uid="2340994552" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="2394363049" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3653567227" type="4" value="-1646890220"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_021/tiles_021" label="var02">
+  <presetinput identifier="Base_Color" uid="2340677832" type="2" value="0.263,0.325,0.29"/>
+  <presetinput identifier="Irregular_Edges" uid="2340994552" type="0" value="1"/>
+  <presetinput identifier="$outputsize" uid="2394363049" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3653567227" type="4" value="2118379895"/>
+  <presetinput identifier="Bricks_Scale" uid="4098976048" type="4" value="5"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_021/tiles_021" label="var03">
+  <presetinput identifier="Base_Color" uid="2340677832" type="2" value="0.325,0.133,0.137"/>
+  <presetinput identifier="Irregular_Edges" uid="2340994552" type="0" value="0.022"/>
+  <presetinput identifier="Light_Angle" uid="2347389620" type="0" value="0.589"/>
+  <presetinput identifier="$outputsize" uid="2394363049" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3653567227" type="4" value="2118379895"/>
+  <presetinput identifier="Bricks_Scale" uid="4098976048" type="4" value="10"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_021/tiles_021" label="var04">
+  <presetinput identifier="Base_Color" uid="2340677832" type="2" value="0.169,0.18,0.278"/>
+  <presetinput identifier="Dirtiness" uid="2340681306" type="0" value="1"/>
+  <presetinput identifier="Irregular_Edges" uid="2340994552" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="2347389620" type="0" value="0.589"/>
+  <presetinput identifier="$outputsize" uid="2394363049" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3653567227" type="4" value="-627749117"/>
+  <presetinput identifier="Contrast" uid="4098979929" type="0" value="0.059"/>
+ </sbspreset>
+</sbspresets>

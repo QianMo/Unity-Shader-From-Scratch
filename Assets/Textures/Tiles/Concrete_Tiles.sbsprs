@@ -1,0 +1,36 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Concrete_Tiles/Concrete_Tiles" label="var03" >
+  <presetinput identifier="$randomseed" uid="782375216" type="4" value="-606375896" />
+  <presetinput identifier="$outputsize" uid="2043678562" type="8" value="9,9" />
+  <presetinput identifier="Speckles" uid="2104002737" type="0" value="0.792" />
+  <presetinput identifier="Stains" uid="2104003015" type="0" value="0.896" />
+  <presetinput identifier="Emboss" uid="2104118385" type="0" value="-3.789" />
+  <presetinput identifier="Sharpen" uid="2104118447" type="0" value="0.822" />
+  <presetinput identifier="Tiles" uid="2104907599" type="4" value="10" />
+  <presetinput identifier="Contrast" uid="2107756613" type="0" value="0.352" />
+  <presetinput identifier="Angle" uid="2107756938" type="0" value="0.622" />
+  <presetinput identifier="Hue_Shift" uid="2107757419" type="0" value="0.693" />
+  <presetinput identifier="Depth" uid="2108593304" type="0" value="0.236" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_Tiles/Concrete_Tiles" label="var01" >
+  <presetinput identifier="$randomseed" uid="782375216" type="4" value="518209386" />
+  <presetinput identifier="$outputsize" uid="2043678562" type="8" value="9,9" />
+  <presetinput identifier="Speckles" uid="2104002737" type="0" value="0.376" />
+  <presetinput identifier="Stains" uid="2104003015" type="0" value="0.92" />
+  <presetinput identifier="Sharpen" uid="2104118447" type="0" value="0.249" />
+  <presetinput identifier="Tiles" uid="2104907599" type="4" value="2" />
+  <presetinput identifier="Hue_Shift" uid="2107757419" type="0" value="0.782" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Concrete_Tiles/Concrete_Tiles" label="var02" >
+  <presetinput identifier="Concrete_Color" uid="51047565" type="2" value="0.8,0.8,0.831" />
+  <presetinput identifier="$randomseed" uid="782375216" type="4" value="-606375896" />
+  <presetinput identifier="$outputsize" uid="2043678562" type="8" value="9,9" />
+  <presetinput identifier="Speckles" uid="2104002737" type="0" value="1" />
+  <presetinput identifier="Stains" uid="2104003015" type="0" value="1" />
+  <presetinput identifier="Emboss" uid="2104118385" type="0" value="-3.789" />
+  <presetinput identifier="Sharpen" uid="2104118447" type="0" value="0.384" />
+  <presetinput identifier="Tiles" uid="2104907599" type="4" value="7" />
+  <presetinput identifier="Angle" uid="2107756938" type="0" value="0.772" />
+  <presetinput identifier="Hue_Shift" uid="2107757419" type="0" value="0.693" />
+ </sbspreset>
+</sbspresets>

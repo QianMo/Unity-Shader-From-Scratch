@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ceramic_02/Ceramic_02" label="var01" >
+  <presetinput identifier="$randomseed" uid="2951700700" type="4" value="284515177" />
+  <presetinput identifier="$outputsize" uid="4171069070" type="8" value="10,10" />
+  <presetinput identifier="Dirt" uid="4230348628" type="0" value="0.579" />
+  <presetinput identifier="Hue_Shift" uid="4231745718" type="0" value="0.082" />
+  <presetinput identifier="Angle" uid="4236846480" type="0" value="0.075" />
+  <presetinput identifier="Emboss" uid="4236846574" type="0" value="6.641" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_02/Ceramic_02" label="var02" >
+  <presetinput identifier="$randomseed" uid="2951700700" type="4" value="496682880" />
+  <presetinput identifier="$outputsize" uid="4171069070" type="8" value="10,10" />
+  <presetinput identifier="Dirt" uid="4230348628" type="0" value="0.579" />
+  <presetinput identifier="Hue_Shift" uid="4231745718" type="0" value="0.586" />
+  <presetinput identifier="Depth" uid="4236845863" type="0" value="0.189" />
+  <presetinput identifier="Contrast" uid="4236845996" type="0" value="0.564" />
+  <presetinput identifier="Angle" uid="4236846480" type="0" value="0.822" />
+  <presetinput identifier="Emboss" uid="4236846574" type="0" value="6.641" />
+  <presetinput identifier="Swipe_Stains" uid="4238289482" type="0" value="0.771" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_02/Ceramic_02" label="var03" >
+  <presetinput identifier="$randomseed" uid="2951700700" type="4" value="1279058640" />
+  <presetinput identifier="$outputsize" uid="4171069070" type="8" value="10,10" />
+  <presetinput identifier="Dirt" uid="4230348628" type="0" value="0.932" />
+  <presetinput identifier="Saturation" uid="4231745717" type="0" value="0.611" />
+  <presetinput identifier="Hue_Shift" uid="4231745718" type="0" value="1" />
+  <presetinput identifier="Depth" uid="4236845863" type="0" value="0.189" />
+  <presetinput identifier="Contrast" uid="4236845996" type="0" value="0.564" />
+  <presetinput identifier="Angle" uid="4236846480" type="0" value="0.631" />
+  <presetinput identifier="Emboss" uid="4236846574" type="0" value="6.641" />
+  <presetinput identifier="Tile_Variance" uid="4237053200" type="0" value="0.69" />
+  <presetinput identifier="Swipe_Stains" uid="4238289482" type="0" value="0.771" />
+ </sbspreset>
+</sbspresets>

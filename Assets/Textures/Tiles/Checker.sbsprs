@@ -1,0 +1,48 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Checker/Checker" label="var02" >
+  <presetinput identifier="$randomseed" uid="2970660223" type="4" value="29484336" />
+  <presetinput identifier="Disparities" uid="3792100194" type="0" value="0.792" />
+  <presetinput identifier="Swipe_Stains" uid="3792105998" type="0" value="0.883" />
+  <presetinput identifier="Luminosity" uid="3792991686" type="0" value="0.439" />
+  <presetinput identifier="Contrast" uid="3792993004" type="0" value="0.1" />
+  <presetinput identifier="Angle" uid="3792993812" type="0" value="0.142" />
+  <presetinput identifier="Normal" uid="3792994336" type="0" value="0.718" />
+  <presetinput identifier="Depth" uid="3793495034" type="0" value="-0.305" />
+  <presetinput identifier="Saturation" uid="3795308524" type="0" value="0.519" />
+  <presetinput identifier="Scratches" uid="3795309233" type="0" value="0.479" />
+  <presetinput identifier="$outputsize" uid="3865230125" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Checker/Checker" label="var01" >
+  <presetinput identifier="Tiles_Color_1" uid="2629589238" type="2" value="0.337,0.38,0.533" />
+  <presetinput identifier="Mortar_Color" uid="2629589323" type="2" value="0.329,0.329,0.329" />
+  <presetinput identifier="$randomseed" uid="2970660223" type="4" value="29484336" />
+  <presetinput identifier="Disparities" uid="3792100194" type="0" value="0.068" />
+  <presetinput identifier="Swipe_Stains" uid="3792105998" type="0" value="0.883" />
+  <presetinput identifier="Luminosity" uid="3792991686" type="0" value="0.439" />
+  <presetinput identifier="Contrast" uid="3792993004" type="0" value="0.1" />
+  <presetinput identifier="Angle" uid="3792993812" type="0" value="0.139" />
+  <presetinput identifier="Normal" uid="3792994336" type="0" value="0.718" />
+  <presetinput identifier="Depth" uid="3793495034" type="0" value="-0.305" />
+  <presetinput identifier="Saturation" uid="3795308524" type="0" value="0.519" />
+  <presetinput identifier="Scratches" uid="3795309233" type="0" value="0.479" />
+  <presetinput identifier="Tile_Density" uid="3795309769" type="4" value="12" />
+  <presetinput identifier="$outputsize" uid="3865230125" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Checker/Checker" label="var03" >
+  <presetinput identifier="Mortar_Width" uid="2627697080" type="0" value="0.632" />
+  <presetinput identifier="Tiles_Color_1" uid="2629589238" type="2" value="0.192,0.188,0.18" />
+  <presetinput identifier="Mortar_Color" uid="2629589323" type="2" value="0.239,0.239,0.239" />
+  <presetinput identifier="$randomseed" uid="2970660223" type="4" value="-1724996355" />
+  <presetinput identifier="Disparities" uid="3792100194" type="0" value="0.438" />
+  <presetinput identifier="Swipe_Stains" uid="3792105998" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="3792991686" type="0" value="0.482" />
+  <presetinput identifier="Contrast" uid="3792993004" type="0" value="0.107" />
+  <presetinput identifier="Angle" uid="3792993812" type="0" value="0.128" />
+  <presetinput identifier="Normal" uid="3792994336" type="0" value="0.718" />
+  <presetinput identifier="Depth" uid="3793495034" type="0" value="-0.305" />
+  <presetinput identifier="Missing_Tiles" uid="3793515504" type="0" value="0.446" />
+  <presetinput identifier="Hue_Shift" uid="3795308051" type="0" value="0.504" />
+  <presetinput identifier="Scratches" uid="3795309233" type="0" value="0.628" />
+  <presetinput identifier="$outputsize" uid="3865230125" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

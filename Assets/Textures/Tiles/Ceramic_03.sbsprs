@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ceramic_03/Ceramic_03" label="var01" >
+  <presetinput identifier="Age_Damage" uid="277316525" type="0" value="0.263" />
+  <presetinput identifier="Normal" uid="277319533" type="0" value="0.649" />
+  <presetinput identifier="Saturation" uid="278473804" type="0" value="0.464" />
+  <presetinput identifier="Hue_Shift" uid="278473807" type="0" value="0.062" />
+  <presetinput identifier="$outputsize" uid="339675767" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="1129126949" type="4" value="-1242801902" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_03/Ceramic_03" label="var02" >
+  <presetinput identifier="Luminosity" uid="271276279" type="0" value="0.565" />
+  <presetinput identifier="Angle" uid="271276393" type="0" value="0.053" />
+  <presetinput identifier="Contrast" uid="271277909" type="0" value="0.041" />
+  <presetinput identifier="Depth" uid="271278046" type="0" value="0.598" />
+  <presetinput identifier="Tile_Variance" uid="271462889" type="0" value="0.249" />
+  <presetinput identifier="Age_Damage" uid="277316525" type="0" value="0.588" />
+  <presetinput identifier="Normal" uid="277319533" type="0" value="0.649" />
+  <presetinput identifier="Saturation" uid="278473804" type="0" value="0.464" />
+  <presetinput identifier="Hue_Shift" uid="278473807" type="0" value="0.869" />
+  <presetinput identifier="$outputsize" uid="339675767" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="1129126949" type="4" value="111202969" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_03/Ceramic_03" label="var03" >
+  <presetinput identifier="Luminosity" uid="271276279" type="0" value="0.565" />
+  <presetinput identifier="Angle" uid="271276393" type="0" value="0.053" />
+  <presetinput identifier="Contrast" uid="271277909" type="0" value="0.041" />
+  <presetinput identifier="Depth" uid="271278046" type="0" value="0.598" />
+  <presetinput identifier="Tile_Variance" uid="271462889" type="0" value="0.914" />
+  <presetinput identifier="Swipe_Stains" uid="272455347" type="0" value="0.249" />
+  <presetinput identifier="Age_Damage" uid="277316525" type="0" value="0.588" />
+  <presetinput identifier="Normal" uid="277319533" type="0" value="0.649" />
+  <presetinput identifier="Saturation" uid="278473804" type="0" value="0.464" />
+  <presetinput identifier="Hue_Shift" uid="278473807" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="339675767" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="1129126949" type="4" value="-1738214398" />
+ </sbspreset>
+</sbspresets>

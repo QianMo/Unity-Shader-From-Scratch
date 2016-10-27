@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://mosaic_001/mosaic_001" label="var01" >
+  <presetinput identifier="Dirtiness" uid="588588192" type="0" value="0.43" />
+  <presetinput identifier="Roughness" uid="590018172" type="0" value="0.136" />
+  <presetinput identifier="Depth" uid="591410747" type="0" value="1" />
+  <presetinput identifier="Normal" uid="591412425" type="0" value="0.488" />
+  <presetinput identifier="$outputsize" uid="639466003" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Color" uid="1556505672" type="2" value="0.953,0.8,0.643" />
+  <presetinput identifier="Mortar_Color" uid="1556506987" type="2" value="0.243,0.239,0.208" />
+  <presetinput identifier="Tiles_Scale" uid="1556508619" type="4" value="5" />
+  <presetinput identifier="$randomseed" uid="1903127617" type="4" value="1389434852" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mosaic_001/mosaic_001" label="var02" >
+  <presetinput identifier="Dirtiness" uid="588588192" type="0" value="0" />
+  <presetinput identifier="Tiles_Disorder" uid="590016835" type="0" value="36.523" />
+  <presetinput identifier="Roughness" uid="590018172" type="0" value="0" />
+  <presetinput identifier="Depth" uid="591410747" type="0" value="1" />
+  <presetinput identifier="Normal" uid="591412425" type="0" value="0.488" />
+  <presetinput identifier="Luminosity" uid="591512488" type="0" value="0.528" />
+  <presetinput identifier="$outputsize" uid="639466003" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Color" uid="1556505672" type="2" value="0.075,0.09,0.098" />
+  <presetinput identifier="Mortar_Color" uid="1556506987" type="2" value="0.137,0.133,0.114" />
+  <presetinput identifier="Tiles_Scale" uid="1556508619" type="4" value="1" />
+  <presetinput identifier="$randomseed" uid="1903127617" type="4" value="1389434852" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://mosaic_001/mosaic_001" label="var03" >
+  <presetinput identifier="Dirtiness" uid="588588192" type="0" value="0.176" />
+  <presetinput identifier="Tiles_Disorder" uid="590016835" type="0" value="15.82" />
+  <presetinput identifier="Roughness" uid="590018172" type="0" value="0.778" />
+  <presetinput identifier="Depth" uid="591410747" type="0" value="0.432" />
+  <presetinput identifier="Emboss" uid="591412374" type="0" value="0.582" />
+  <presetinput identifier="Normal" uid="591412425" type="0" value="1" />
+  <presetinput identifier="Luminosity" uid="591512488" type="0" value="0.51" />
+  <presetinput identifier="Saturation" uid="591512509" type="0" value="0.474" />
+  <presetinput identifier="$outputsize" uid="639466003" type="8" value="9,9" />
+  <presetinput identifier="Tiles_Color" uid="1556505672" type="2" value="0.502,0.694,0.541" />
+  <presetinput identifier="Mortar_Color" uid="1556506987" type="2" value="0.455,0.455,0.455" />
+  <presetinput identifier="Contrast" uid="1556508256" type="0" value="0.234" />
+  <presetinput identifier="Tiles_Scale" uid="1556508619" type="4" value="1" />
+  <presetinput identifier="$randomseed" uid="1903127617" type="4" value="-7327003" />
+ </sbspreset>
+</sbspresets>

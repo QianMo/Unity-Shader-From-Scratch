@@ -1,0 +1,31 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://tiles_012/tiles_012" label="var01" >
+  <presetinput identifier="Tiles_Size" uid="2819692310" type="0" value="0.896" />
+  <presetinput identifier="Moss_Color" uid="2821359984" type="2" value="0.22,0.282,0.188" />
+  <presetinput identifier="$outputsize" uid="3538919969" type="8" value="9,9" />
+  <presetinput identifier="Moss" uid="3622865168" type="0" value="0.704" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_012/tiles_012" label="var02" >
+  <presetinput identifier="Tiles_Amount_Y" uid="2819637562" type="4" value="8" />
+  <presetinput identifier="Tiles_Size" uid="2819692310" type="0" value="0.521" />
+  <presetinput identifier="Water_Refraction" uid="2821347707" type="0" value="1" />
+  <presetinput identifier="Moss_Color" uid="2821359984" type="2" value="0.22,0.282,0.188" />
+  <presetinput identifier="$outputsize" uid="3538919969" type="8" value="9,9" />
+  <presetinput identifier="Pebbles_Size" uid="3622844601" type="0" value="0.976" />
+  <presetinput identifier="Water_Level" uid="3623303014" type="0" value="0.19" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_012/tiles_012" label="var03" >
+  <presetinput identifier="Tiles_Amount_X" uid="2819637543" type="4" value="8" />
+  <presetinput identifier="Tiles_Amount_Y" uid="2819637562" type="4" value="8" />
+  <presetinput identifier="Tiles_Size" uid="2819692310" type="0" value="0.521" />
+  <presetinput identifier="Snow" uid="2821268264" type="0" value="0.718" />
+  <presetinput identifier="Water_to_Ice" uid="2821268288" type="0" value="0.909" />
+  <presetinput identifier="Water_Refraction" uid="2821347707" type="0" value="1" />
+  <presetinput identifier="Tiles_Color" uid="2821354693" type="2" value="0.518,0.298,0.212" />
+  <presetinput identifier="Contrast" uid="2821355395" type="0" value="0.021" />
+  <presetinput identifier="Moss_Color" uid="2821359984" type="2" value="0.22,0.282,0.188" />
+  <presetinput identifier="$outputsize" uid="3538919969" type="8" value="9,9" />
+  <presetinput identifier="Pebbles_Size" uid="3622844601" type="0" value="0.976" />
+  <presetinput identifier="Water_Level" uid="3623303014" type="0" value="0.127" />
+ </sbspreset>
+</sbspresets>

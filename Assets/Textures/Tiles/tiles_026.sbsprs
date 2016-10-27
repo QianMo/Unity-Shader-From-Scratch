@@ -1,0 +1,34 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://tiles_026/tiles_026" label="var01">
+  <presetinput identifier="$outputsize" uid="971543689" type="8" value="9,9"/>
+  <presetinput identifier="Bricks_Color" uid="1124671916" type="2" value="0.69,0.596,0.529"/>
+  <presetinput identifier="Scale" uid="1124671972" type="4" value="2"/>
+  <presetinput identifier="Disorder" uid="1124671992" type="0" value="1"/>
+  <presetinput identifier="Dirtiness" uid="1124672830" type="0" value="1"/>
+  <presetinput identifier="$randomseed" uid="1855619803" type="4" value="-1781887515"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_026/tiles_026" label="var03">
+  <presetinput identifier="$outputsize" uid="971543689" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="1018548884" type="0" value="0.058"/>
+  <presetinput identifier="Bricks_Color" uid="1124671916" type="2" value="0.51,0.502,0.478"/>
+  <presetinput identifier="Concrete_Color" uid="1124671917" type="2" value="0.639,0.698,0.667"/>
+  <presetinput identifier="Scale" uid="1124671972" type="4" value="4"/>
+  <presetinput identifier="Color_Variation" uid="1124671973" type="0" value="1"/>
+  <presetinput identifier="Roundness" uid="1124671975" type="0" value="0.412"/>
+  <presetinput identifier="Disorder" uid="1124671992" type="0" value="1"/>
+  <presetinput identifier="Dirtiness" uid="1124672830" type="0" value="0.869"/>
+  <presetinput identifier="Interstices" uid="1124678902" type="0" value="0.215"/>
+  <presetinput identifier="Contrast" uid="1127260864" type="0" value="0.004"/>
+  <presetinput identifier="$randomseed" uid="1855619803" type="4" value="94954826"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_026/tiles_026" label="var02">
+  <presetinput identifier="$outputsize" uid="971543689" type="8" value="9,9"/>
+  <presetinput identifier="Light_Angle" uid="1018548884" type="0" value="0.058"/>
+  <presetinput identifier="Bricks_Color" uid="1124671916" type="2" value="0.424,0.427,0.439"/>
+  <presetinput identifier="Scale" uid="1124671972" type="4" value="8"/>
+  <presetinput identifier="Color_Variation" uid="1124671973" type="0" value="1"/>
+  <presetinput identifier="Roundness" uid="1124671975" type="0" value="0.412"/>
+  <presetinput identifier="Interstices" uid="1124678902" type="0" value="0.435"/>
+  <presetinput identifier="$randomseed" uid="1855619803" type="4" value="94954826"/>
+ </sbspreset>
+</sbspresets>

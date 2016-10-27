@@ -1,0 +1,48 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://tiles_005/tiles_005" label="var01" >
+  <presetinput identifier="Water_Level" uid="2648182025" type="0" value="0" />
+  <presetinput identifier="Slope_Tiles_Amount" uid="2648319407" type="0" value="0" />
+  <presetinput identifier="Dirty_Tiles_Amount" uid="2648320458" type="0" value="0" />
+  <presetinput identifier="Tiles_Number" uid="2648361961" type="4" value="10" />
+  <presetinput identifier="Dirtiness" uid="2648422495" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3876478767" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_005/tiles_005" label="var02" >
+  <presetinput identifier="Water_Level" uid="2648182025" type="0" value="0" />
+  <presetinput identifier="Tiles_Color" uid="2648314328" type="2" value="0.275,0.392,0.463" />
+  <presetinput identifier="Slope_Tiles_Amount" uid="2648319407" type="0" value="0.574" />
+  <presetinput identifier="Dirty_Tiles_Amount" uid="2648320458" type="0" value="0" />
+  <presetinput identifier="Tiles_Number" uid="2648361961" type="4" value="13" />
+  <presetinput identifier="Dirtiness" uid="2648422495" type="0" value="0" />
+  <presetinput identifier="$outputsize" uid="3876478767" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_005/tiles_005" label="var03" >
+  <presetinput identifier="Contrast" uid="2646978786" type="0" value="-0.027" />
+  <presetinput identifier="Water_Level" uid="2648182025" type="0" value="0.772" />
+  <presetinput identifier="Tiles_Color" uid="2648314328" type="2" value="0.612,0.639,0.424" />
+  <presetinput identifier="Water_Color" uid="2648315033" type="2" value="0.49,0.635,0.725" />
+  <presetinput identifier="Slope_Tiles_Amount" uid="2648319407" type="0" value="0.666" />
+  <presetinput identifier="Dirty_Tiles_Amount" uid="2648320458" type="0" value="0.74" />
+  <presetinput identifier="Dirtiness_Color" uid="2648324730" type="2" value="0.392,0.373,0.31" />
+  <presetinput identifier="Tiles_Number" uid="2648361961" type="4" value="13" />
+  <presetinput identifier="Dirtiness" uid="2648422495" type="0" value="0.938" />
+  <presetinput identifier="Saturation" uid="3797083777" type="0" value="0.558" />
+  <presetinput identifier="Luminosity" uid="3797083796" type="0" value="0.486" />
+  <presetinput identifier="$outputsize" uid="3876478767" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_005/tiles_005" label="var04" >
+  <presetinput identifier="Contrast" uid="2646978786" type="0" value="-0.027" />
+  <presetinput identifier="Water_Level" uid="2648182025" type="0" value="0.516" />
+  <presetinput identifier="Tiles_Color" uid="2648314328" type="2" value="0.294,0.345,0.639" />
+  <presetinput identifier="Water_Color" uid="2648315033" type="2" value="0.459,0.725,0.616" />
+  <presetinput identifier="Slope_Tiles_Amount" uid="2648319407" type="0" value="0.666" />
+  <presetinput identifier="Dirty_Tiles_Amount" uid="2648320458" type="0" value="0.74" />
+  <presetinput identifier="Dirtiness_Color" uid="2648324730" type="2" value="0.392,0.373,0.31" />
+  <presetinput identifier="Tiles_Number" uid="2648361961" type="4" value="6" />
+  <presetinput identifier="Dirtiness" uid="2648422495" type="0" value="0.584" />
+  <presetinput identifier="$randomseed" uid="2960935293" type="4" value="-190095250" />
+  <presetinput identifier="Saturation" uid="3797083777" type="0" value="0.518" />
+  <presetinput identifier="Luminosity" uid="3797083796" type="0" value="0.486" />
+  <presetinput identifier="$outputsize" uid="3876478767" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

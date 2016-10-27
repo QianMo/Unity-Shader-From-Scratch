@@ -1,0 +1,23 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://tiles_024/tiles_024" label="var02">
+  <presetinput identifier="Depth" uid="2329346124" type="0" value="-0.264"/>
+  <presetinput identifier="$outputsize" uid="2408205412" type="8" value="9,9"/>
+  <presetinput identifier="Moss_Color" uid="4117242513" type="2" value="0.235,0.278,0.145"/>
+  <presetinput identifier="Bricks_Color" uid="4117242518" type="2" value="0.329,0.333,0.357"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4117242558" type="4" value="10"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4117242559" type="4" value="10"/>
+  <presetinput identifier="Moss" uid="4117253404" type="0" value="0.519"/>
+  <presetinput identifier="Disorder" uid="4117398460" type="0" value="1"/>
+  <presetinput identifier="Color_Variation" uid="4117398461" type="0" value="1"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_024/tiles_024" label="var01">
+  <presetinput identifier="Normal" uid="2329348798" type="0" value="0.887"/>
+  <presetinput identifier="$outputsize" uid="2408205412" type="8" value="9,9"/>
+  <presetinput identifier="Moss_Color" uid="4117242513" type="2" value="0.235,0.278,0.145"/>
+  <presetinput identifier="Bricks_Color" uid="4117242518" type="2" value="0.498,0.337,0.322"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4117242558" type="4" value="2"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4117242559" type="4" value="2"/>
+  <presetinput identifier="Moss" uid="4117253404" type="0" value="0.991"/>
+  <presetinput identifier="Color_Variation" uid="4117398461" type="0" value="1"/>
+ </sbspreset>
+</sbspresets>

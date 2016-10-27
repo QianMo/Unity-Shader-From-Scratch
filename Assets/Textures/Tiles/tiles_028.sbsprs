@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://tiles_028/tiles_028" label="var01">
+  <presetinput identifier="Age" uid="2299585569" type="0" value="0.887"/>
+  <presetinput identifier="$outputsize" uid="2351338120" type="8" value="9,9"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4140129109" type="4" value="10"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4140129148" type="4" value="10"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_028/tiles_028" label="var02">
+  <presetinput identifier="Saturation" uid="2306485030" type="0" value="0.346"/>
+  <presetinput identifier="Luminosity" uid="2306485043" type="0" value="0.548"/>
+  <presetinput identifier="$outputsize" uid="2351338120" type="8" value="9,9"/>
+  <presetinput identifier="Contrast" uid="4139928011" type="0" value="0.004"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4140129109" type="4" value="40"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4140129148" type="4" value="40"/>
+  <presetinput identifier="Base_Color" uid="4140252485" type="2" value="0.427,0.427,0.427"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_028/tiles_028" label="var03">
+  <presetinput identifier="Saturation" uid="2306485030" type="0" value="0.496"/>
+  <presetinput identifier="Luminosity" uid="2306485043" type="0" value="0.502"/>
+  <presetinput identifier="Normal" uid="2306593874" type="0" value="0.521"/>
+  <presetinput identifier="Depth" uid="2306596512" type="0" value="0.01"/>
+  <presetinput identifier="$outputsize" uid="2351338120" type="8" value="9,9"/>
+  <presetinput identifier="Bricks_Offset" uid="4135936376" type="0" value="1"/>
+  <presetinput identifier="Bricks_Random_Offset" uid="4135936378" type="0" value="0"/>
+  <presetinput identifier="Contrast" uid="4139928011" type="0" value="0.004"/>
+  <presetinput identifier="Bricks_Amount_X" uid="4140129109" type="4" value="10"/>
+  <presetinput identifier="Bricks_Amount_Y" uid="4140129148" type="4" value="40"/>
+  <presetinput identifier="Base_Color" uid="4140252485" type="2" value="0.357,0.251,0.251"/>
+ </sbspreset>
+</sbspresets>

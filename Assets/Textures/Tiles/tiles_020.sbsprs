@@ -1,0 +1,24 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://tiles_020/tiles_020" label="var01">
+  <presetinput identifier="$outputsize" uid="943651839" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="1025923487" type="0" value="0.492"/>
+  <presetinput identifier="Normal" uid="1029946661" type="0" value="0.815"/>
+  <presetinput identifier="Color_2" uid="1120067536" type="2" value="0.212,0.2,0.184"/>
+  <presetinput identifier="Color_1" uid="1120067558" type="2" value="0.773,0.761,0.694"/>
+  <presetinput identifier="$randomseed" uid="1867312557" type="4" value="-351031764"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_020/tiles_020" label="var02">
+  <presetinput identifier="$outputsize" uid="943651839" type="8" value="9,9"/>
+  <presetinput identifier="Age" uid="1025923487" type="0" value="1"/>
+  <presetinput identifier="Color_Variation" uid="1026689043" type="0" value="0"/>
+  <presetinput identifier="Luminosity" uid="1029849668" type="0" value="0.284"/>
+  <presetinput identifier="Depth" uid="1029945303" type="0" value="-1"/>
+  <presetinput identifier="Normal" uid="1029946661" type="0" value="0.811"/>
+  <presetinput identifier="Emboss" uid="1029946746" type="0" value="0.742"/>
+  <presetinput identifier="Light_Angle" uid="1029946850" type="0" value="0.567"/>
+  <presetinput identifier="Contrast" uid="1120063100" type="0" value="0.15"/>
+  <presetinput identifier="Color_2" uid="1120067536" type="2" value="0.212,0.2,0.184"/>
+  <presetinput identifier="Color_1" uid="1120067558" type="2" value="0.773,0.761,0.694"/>
+  <presetinput identifier="$randomseed" uid="1867312557" type="4" value="-351031764"/>
+ </sbspreset>
+</sbspresets>

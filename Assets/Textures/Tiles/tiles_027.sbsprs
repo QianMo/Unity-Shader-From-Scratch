@@ -1,0 +1,29 @@
+<sbspresets formatversion="1.0" count="3">
+ <sbspreset pkgurl="pkg://tiles_027/tiles_027" label="var01">
+  <presetinput identifier="$outputsize" uid="2405530591" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3625151885" type="4" value="-681826364"/>
+  <presetinput identifier="Dirtiness" uid="4118869282" type="0" value="0"/>
+  <presetinput identifier="Interstices" uid="4118972119" type="0" value="0.165"/>
+  <presetinput identifier="Scale" uid="4119001866" type="4" value="1"/>
+  <presetinput identifier="Bricks_Color" uid="4119001868" type="2" value="0.761,0.737,0.714"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_027/tiles_027" label="var02">
+  <presetinput identifier="$outputsize" uid="2405530591" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3625151885" type="4" value="1261173167"/>
+  <presetinput identifier="Dirtiness" uid="4118869282" type="0" value="0.835"/>
+  <presetinput identifier="Interstices" uid="4118972119" type="0" value="0.165"/>
+  <presetinput identifier="Scale" uid="4119001866" type="4" value="4"/>
+  <presetinput identifier="Bricks_Color" uid="4119001868" type="2" value="0.761,0.737,0.714"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_027/tiles_027" label="var03">
+  <presetinput identifier="Light_Angle" uid="2319203778" type="0" value="0.15"/>
+  <presetinput identifier="$outputsize" uid="2405530591" type="8" value="9,9"/>
+  <presetinput identifier="$randomseed" uid="3625151885" type="4" value="-189282733"/>
+  <presetinput identifier="Concrete_Color" uid="4118842438" type="2" value="0.553,0.522,0.514"/>
+  <presetinput identifier="Dirtiness" uid="4118869282" type="0" value="0"/>
+  <presetinput identifier="Interstices" uid="4118972119" type="0" value="1"/>
+  <presetinput identifier="Scale" uid="4119001866" type="4" value="4"/>
+  <presetinput identifier="Color_Variation" uid="4119001867" type="0" value="0.889"/>
+  <presetinput identifier="Bricks_Color" uid="4119001868" type="2" value="0.353,0.243,0.243"/>
+ </sbspreset>
+</sbspresets>

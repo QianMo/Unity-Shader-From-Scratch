@@ -1,0 +1,33 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ceramic_04/Ceramic_04" label="var01" >
+  <presetinput identifier="$randomseed" uid="2846973961" type="4" value="-403134596" />
+  <presetinput identifier="Angle" uid="4207657212" type="0" value="0.206" />
+  <presetinput identifier="Emboss" uid="4207657214" type="0" value="8.086" />
+  <presetinput identifier="Dirt" uid="4207661905" type="0" value="0.504" />
+  <presetinput identifier="Disparities" uid="4207664172" type="0" value="0.554" />
+  <presetinput identifier="$outputsize" uid="4274222683" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_04/Ceramic_04" label="var02" >
+  <presetinput identifier="$randomseed" uid="2846973961" type="4" value="-403134596" />
+  <presetinput identifier="Angle" uid="4207657212" type="0" value="0.994" />
+  <presetinput identifier="Emboss" uid="4207657214" type="0" value="2.051" />
+  <presetinput identifier="Depth" uid="4207661769" type="0" value="-1" />
+  <presetinput identifier="Dirt" uid="4207661905" type="0" value="0.504" />
+  <presetinput identifier="Disparities" uid="4207664172" type="0" value="0.554" />
+  <presetinput identifier="Tiling_Density" uid="4207665259" type="4" value="10" />
+  <presetinput identifier="Missing_Tiles" uid="4207665370" type="0" value="0.437" />
+  <presetinput identifier="$outputsize" uid="4274222683" type="8" value="10,10" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_04/Ceramic_04" label="var03" >
+  <presetinput identifier="$randomseed" uid="2846973961" type="4" value="1778489935" />
+  <presetinput identifier="Angle" uid="4207657212" type="0" value="0.642" />
+  <presetinput identifier="Emboss" uid="4207657214" type="0" value="2.051" />
+  <presetinput identifier="Depth" uid="4207661769" type="0" value="-1" />
+  <presetinput identifier="Dirt" uid="4207661905" type="0" value="0.504" />
+  <presetinput identifier="Disparities" uid="4207664172" type="0" value="0.554" />
+  <presetinput identifier="Tiling_Density" uid="4207665259" type="4" value="16" />
+  <presetinput identifier="Missing_Tiles" uid="4207665370" type="0" value="0.722" />
+  <presetinput identifier="Relief_Balance" uid="4209603021" type="0" value="17.562" />
+  <presetinput identifier="$outputsize" uid="4274222683" type="8" value="10,10" />
+ </sbspreset>
+</sbspresets>

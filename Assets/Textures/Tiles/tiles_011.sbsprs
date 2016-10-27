@@ -1,0 +1,17 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://tiles_011/tiles_011" label="var01" >
+  <presetinput identifier="Tiling" uid="2834360428" type="4" value="4" />
+  <presetinput identifier="Color_2" uid="2834360999" type="2" value="0.573,0.349,0.169" />
+  <presetinput identifier="$outputsize" uid="3523515802" type="8" value="9,9" />
+  <presetinput identifier="Color_1" uid="3610274299" type="2" value="0.388,0.286,0.22" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_011/tiles_011" label="var02" >
+  <presetinput identifier="Mortar_Color" uid="2828390478" type="2" value="0,0,0" />
+  <presetinput identifier="Tiling" uid="2834360428" type="4" value="10" />
+  <presetinput identifier="Color_2" uid="2834360999" type="2" value="0.325,0.318,0.31" />
+  <presetinput identifier="$outputsize" uid="3523515802" type="8" value="9,9" />
+  <presetinput identifier="Color_1" uid="3610274299" type="2" value="0.506,0.471,0.42" />
+  <presetinput identifier="Dirt" uid="3610277737" type="0" value="0.684" />
+  <presetinput identifier="Emboss" uid="3612988191" type="0" value="0.74" />
+ </sbspreset>
+</sbspresets>

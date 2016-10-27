@@ -1,0 +1,16 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://tiles_010/tiles_010" label="var01" >
+  <presetinput identifier="Color_Balance" uid="508593250" type="0" value="1" />
+  <presetinput identifier="Color_2" uid="508783219" type="2" value="0.388,0.294,0.263" />
+  <presetinput identifier="Age" uid="1639553087" type="0" value="1" />
+  <presetinput identifier="$outputsize" uid="1686993612" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_010/tiles_010" label="var02" >
+  <presetinput identifier="Color_Balance" uid="508593250" type="0" value="0" />
+  <presetinput identifier="Tiles_Scale" uid="508765130" type="4" value="2" />
+  <presetinput identifier="Color_2" uid="508783219" type="2" value="0.149,0.176,0.149" />
+  <presetinput identifier="Contrast" uid="510716268" type="0" value="0.117" />
+  <presetinput identifier="Color_1" uid="1639548589" type="2" value="0.361,0.318,0.247" />
+  <presetinput identifier="$outputsize" uid="1686993612" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

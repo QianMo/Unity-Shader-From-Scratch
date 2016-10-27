@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://tiles_023/tiles_023" label="var01">
+  <presetinput identifier="$outputsize" uid="953535556" type="8" value="9,9"/>
+  <presetinput identifier="Brick_Color_2" uid="1039451136" type="2" value="0.553,0.533,0.482"/>
+  <presetinput identifier="Brick_Color_3" uid="1039454099" type="2" value="0.651,0.616,0.525"/>
+  <presetinput identifier="Brick_Color_1" uid="1039765148" type="2" value="0.655,0.631,0.565"/>
+  <presetinput identifier="Moss" uid="1110774278" type="0" value="0.74"/>
+  <presetinput identifier="$randomseed" uid="1873271318" type="4" value="-1523397167"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_023/tiles_023" label="var02">
+  <presetinput identifier="$outputsize" uid="953535556" type="8" value="9,9"/>
+  <presetinput identifier="Normal" uid="1032358558" type="0" value="1"/>
+  <presetinput identifier="Luminosity" uid="1032418815" type="0" value="0.438"/>
+  <presetinput identifier="Brick_Color_2" uid="1039451136" type="2" value="0.553,0.533,0.482"/>
+  <presetinput identifier="Brick_Color_3" uid="1039454099" type="2" value="0.651,0.616,0.525"/>
+  <presetinput identifier="Brick_Color_1" uid="1039765148" type="2" value="0.655,0.631,0.565"/>
+  <presetinput identifier="Shape_Sharpness" uid="1110731633" type="0" value="0"/>
+  <presetinput identifier="Scale" uid="1110819504" type="4" value="2"/>
+  <presetinput identifier="Contrast" uid="1110840628" type="0" value="0.068"/>
+  <presetinput identifier="$randomseed" uid="1873271318" type="4" value="1858804760"/>
+ </sbspreset>
+</sbspresets>

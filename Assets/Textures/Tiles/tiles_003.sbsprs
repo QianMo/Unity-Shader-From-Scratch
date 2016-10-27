@@ -1,0 +1,22 @@
+<sbspresets formatversion="1.0" count="2" >
+ <sbspreset pkgurl="pkg://tiles_003/tiles_003" label="var01" >
+  <presetinput identifier="Tiles_Removing" uid="2619164445" type="0" value="0.312" />
+  <presetinput identifier="Tiles_Disorder" uid="2620449848" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="2980718091" type="4" value="-1935663089" />
+  <presetinput identifier="Saturation" uid="3817114103" type="0" value="0.45" />
+  <presetinput identifier="Tiles_Aspect" uid="3823578518" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="3823649288" type="0" value="0.602" />
+  <presetinput identifier="$outputsize" uid="3872927833" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_003/tiles_003" label="var02" >
+  <presetinput identifier="Tiles_Amount" uid="2619157383" type="4" value="9" />
+  <presetinput identifier="Tiles_Color" uid="2619162423" type="2" value="0.58,0.765,0.925" />
+  <presetinput identifier="Tiles_Disorder" uid="2620449848" type="0" value="0" />
+  <presetinput identifier="Cement_Color" uid="2622072813" type="2" value="0.745,0.745,0.745" />
+  <presetinput identifier="$randomseed" uid="2980718091" type="4" value="1847847568" />
+  <presetinput identifier="Saturation" uid="3817114103" type="0" value="0.45" />
+  <presetinput identifier="Tiles_Aspect" uid="3823578518" type="0" value="1" />
+  <presetinput identifier="Dirtiness" uid="3823649288" type="0" value="0.734" />
+  <presetinput identifier="$outputsize" uid="3872927833" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

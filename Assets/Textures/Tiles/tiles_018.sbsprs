@@ -1,0 +1,45 @@
+<sbspresets formatversion="1.0" count="4">
+ <sbspreset pkgurl="pkg://tiles_018/tiles_018" label="var01">
+  <presetinput identifier="$randomseed" uid="2280064489" type="4" value="-357597656"/>
+  <presetinput identifier="Tiles_Amount_Y" uid="2856415200" type="4" value="1"/>
+  <presetinput identifier="Tiles_Amount_X" uid="2856415213" type="4" value="1"/>
+  <presetinput identifier="Tiles_Color" uid="2856818670" type="2" value="0.373,0.345,0.314"/>
+  <presetinput identifier="Concrete_Color" uid="2856818671" type="2" value="0,0,0"/>
+  <presetinput identifier="$outputsize" uid="3499430843" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_018/tiles_018" label="var02">
+  <presetinput identifier="$randomseed" uid="2280064489" type="4" value="160490026"/>
+  <presetinput identifier="Tiles_Amount_X" uid="2856415213" type="4" value="1"/>
+  <presetinput identifier="Age" uid="2856773902" type="0" value="1"/>
+  <presetinput identifier="Dust" uid="2856815353" type="0" value="0.943"/>
+  <presetinput identifier="Tiles_Color" uid="2856818670" type="2" value="0.486,0.463,0.412"/>
+  <presetinput identifier="Concrete_Color" uid="2856818671" type="2" value="0.298,0.298,0.298"/>
+  <presetinput identifier="Dust_Color" uid="2859081276" type="2" value="0.094,0.114,0.086"/>
+  <presetinput identifier="$outputsize" uid="3499430843" type="8" value="9,9"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_018/tiles_018" label="var03">
+  <presetinput identifier="$randomseed" uid="2280064489" type="4" value="1213128316"/>
+  <presetinput identifier="Tiles_Amount_Y" uid="2856415200" type="4" value="7"/>
+  <presetinput identifier="Tiles_Amount_X" uid="2856415213" type="4" value="7"/>
+  <presetinput identifier="Age" uid="2856773902" type="0" value="1"/>
+  <presetinput identifier="Tiles_Color" uid="2856818670" type="2" value="0.478,0.482,0.486"/>
+  <presetinput identifier="Concrete_Color" uid="2856818671" type="2" value="0.298,0.298,0.298"/>
+  <presetinput identifier="Contrast" uid="2859079782" type="0" value="0.025"/>
+  <presetinput identifier="Dust_Color" uid="2859081276" type="2" value="0.094,0.114,0.086"/>
+  <presetinput identifier="$outputsize" uid="3499430843" type="8" value="9,9"/>
+  <presetinput identifier="Saturation" uid="3586763285" type="0" value="0.489"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_018/tiles_018" label="var04">
+  <presetinput identifier="$randomseed" uid="2280064489" type="4" value="-1118294262"/>
+  <presetinput identifier="Tiles_Amount_Y" uid="2856415200" type="4" value="10"/>
+  <presetinput identifier="Tiles_Amount_X" uid="2856415213" type="4" value="9"/>
+  <presetinput identifier="Dirtiness" uid="2856745771" type="0" value="0"/>
+  <presetinput identifier="Tiles_Color" uid="2856818670" type="2" value="0.478,0.482,0.486"/>
+  <presetinput identifier="Concrete_Color" uid="2856818671" type="2" value="0.298,0.298,0.298"/>
+  <presetinput identifier="Contrast" uid="2859079782" type="0" value="0.043"/>
+  <presetinput identifier="Dust_Color" uid="2859081276" type="2" value="0.094,0.114,0.086"/>
+  <presetinput identifier="$outputsize" uid="3499430843" type="8" value="9,9"/>
+  <presetinput identifier="Interstices_Scale" uid="3585955817" type="0" value="1"/>
+  <presetinput identifier="Saturation" uid="3586763285" type="0" value="0.489"/>
+ </sbspreset>
+</sbspresets>

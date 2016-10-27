@@ -1,0 +1,30 @@
+<sbspresets formatversion="1.0" count="2">
+ <sbspreset pkgurl="pkg://tiles_029/tiles_029" label="var01">
+  <presetinput identifier="$outputsize" uid="984579550" type="8" value="9,9"/>
+  <presetinput identifier="Dirtiness" uid="1066041237" type="0" value="1"/>
+  <presetinput identifier="Weathering" uid="1066691979" type="0" value="1"/>
+  <presetinput identifier="Roughness" uid="1066847504" type="0" value="1"/>
+  <presetinput identifier="Height_Slopes" uid="1078540940" type="0" value="1"/>
+  <presetinput identifier="Tiles_Color_2" uid="1082020836" type="2" value="0.902,0.933,0.894"/>
+  <presetinput identifier="Tiles_Color_1" uid="1082020837" type="2" value="0.498,0.51,0.502"/>
+  <presetinput identifier="Concrete_Color" uid="1082023362" type="2" value="0.384,0.384,0.392"/>
+  <presetinput identifier="$randomseed" uid="1843227532" type="4" value="-781496329"/>
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_029/tiles_029" label="var02">
+  <presetinput identifier="$outputsize" uid="984579550" type="8" value="9,9"/>
+  <presetinput identifier="Dirtiness" uid="1066041237" type="0" value="1"/>
+  <presetinput identifier="Weathering" uid="1066691979" type="0" value="1"/>
+  <presetinput identifier="Roughness" uid="1066847504" type="0" value="1"/>
+  <presetinput identifier="Depth" uid="1072837110" type="0" value="20"/>
+  <presetinput identifier="Normal" uid="1072839428" type="0" value="0.968"/>
+  <presetinput identifier="Emboss" uid="1072839515" type="0" value="1"/>
+  <presetinput identifier="Light_Angle" uid="1072839619" type="0" value="0.686"/>
+  <presetinput identifier="Luminosity" uid="1072940133" type="0" value="0.469"/>
+  <presetinput identifier="Contrast" uid="1078532348" type="0" value="0.176"/>
+  <presetinput identifier="Height_Slopes" uid="1078540940" type="0" value="1"/>
+  <presetinput identifier="Tiles_Color_2" uid="1082020836" type="2" value="0.902,0.933,0.894"/>
+  <presetinput identifier="Tiles_Color_1" uid="1082020837" type="2" value="0.51,0.494,0.494"/>
+  <presetinput identifier="Concrete_Color" uid="1082023362" type="2" value="0.384,0.384,0.392"/>
+  <presetinput identifier="$randomseed" uid="1843227532" type="4" value="-390036178"/>
+ </sbspreset>
+</sbspresets>

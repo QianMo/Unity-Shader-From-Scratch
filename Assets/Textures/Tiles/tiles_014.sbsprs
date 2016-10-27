@@ -1,0 +1,42 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://tiles_014/tiles_014" label="var01" >
+  <presetinput identifier="$randomseed" uid="2219563781" type="4" value="1512569983" />
+  <presetinput identifier="$outputsize" uid="3543780695" type="8" value="9,9" />
+  <presetinput identifier="Tiling" uid="3591521484" type="4" value="3" />
+  <presetinput identifier="Pattern_Type" uid="3591686193" type="4" value="2" />
+  <presetinput identifier="Normal" uid="3596913549" type="0" value="0.589" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_014/tiles_014" label="var02" >
+  <presetinput identifier="$randomseed" uid="2219563781" type="4" value="1598294197" />
+  <presetinput identifier="Tile_Size" uid="2846483913" type="0" value="0.625" />
+  <presetinput identifier="Contrast" uid="2848217204" type="0" value="0.014" />
+  <presetinput identifier="$outputsize" uid="3543780695" type="8" value="9,9" />
+  <presetinput identifier="Tiling" uid="3591521484" type="4" value="7" />
+  <presetinput identifier="Pattern_01_Color" uid="3591684621" type="2" value="0.46,0.339,0.3" />
+  <presetinput identifier="Pattern_02_Color" uid="3591684670" type="2" value="0.506,0.357,0.255" />
+  <presetinput identifier="Pattern_Type" uid="3591686193" type="4" value="2" />
+  <presetinput identifier="Scratches" uid="3591686277" type="0" value="0.484" />
+  <presetinput identifier="Dirtiness" uid="3591763622" type="0" value="0.011" />
+  <presetinput identifier="Depth" uid="3596910975" type="0" value="0.09" />
+  <presetinput identifier="Light_Angle" uid="3596913482" type="0" value="0.253" />
+  <presetinput identifier="Normal" uid="3596913549" type="0" value="0.589" />
+  <presetinput identifier="Emboss" uid="3596913618" type="0" value="0.688" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_014/tiles_014" label="var03" >
+  <presetinput identifier="$randomseed" uid="2219563781" type="4" value="2085777115" />
+  <presetinput identifier="Tile_Size" uid="2846483913" type="0" value="0.902" />
+  <presetinput identifier="Mortar_Color" uid="2846485457" type="2" value="0.408,0.369,0.337" />
+  <presetinput identifier="Contrast" uid="2848217204" type="0" value="0.014" />
+  <presetinput identifier="$outputsize" uid="3543780695" type="8" value="9,9" />
+  <presetinput identifier="Tiling" uid="3591521484" type="4" value="2" />
+  <presetinput identifier="Pattern_01_Color" uid="3591684621" type="2" value="0.46,0.339,0.3" />
+  <presetinput identifier="Pattern_02_Color" uid="3591684670" type="2" value="0.58,0.329,0.337" />
+  <presetinput identifier="Pattern_Type" uid="3591686193" type="4" value="2" />
+  <presetinput identifier="Scratches" uid="3591686277" type="0" value="0.675" />
+  <presetinput identifier="Dirtiness" uid="3591763622" type="0" value="0.019" />
+  <presetinput identifier="Depth" uid="3596910975" type="0" value="0.09" />
+  <presetinput identifier="Light_Angle" uid="3596913482" type="0" value="0.253" />
+  <presetinput identifier="Normal" uid="3596913549" type="0" value="0.589" />
+  <presetinput identifier="Emboss" uid="3596913618" type="0" value="0.688" />
+ </sbspreset>
+</sbspresets>

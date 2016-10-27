@@ -1,0 +1,25 @@
+<sbspresets formatversion="1.0" count="4" >
+ <sbspreset pkgurl="pkg://tiles_009/tiles_009" label="var01" >
+  <presetinput identifier="Mortar_Color" uid="2656244895" type="2" value="0.612,0.541,0.51" />
+  <presetinput identifier="Stones_Color" uid="2656244907" type="2" value="0.451,0.306,0.184" />
+  <presetinput identifier="Scale_Y" uid="2656258842" type="4" value="5" />
+  <presetinput identifier="$outputsize" uid="3835855299" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_009/tiles_009" label="var02" >
+  <presetinput identifier="Dirtiness" uid="2656157487" type="0" value="0.634" />
+  <presetinput identifier="Contrast" uid="2656244894" type="0" value="-0.004" />
+  <presetinput identifier="Mortar_Color" uid="2656244895" type="2" value="0.612,0.541,0.51" />
+  <presetinput identifier="Stones_Color" uid="2656244907" type="2" value="0.294,0.298,0.31" />
+  <presetinput identifier="Scale_X" uid="2656258836" type="4" value="5" />
+  <presetinput identifier="Scale_Y" uid="2656258842" type="4" value="5" />
+  <presetinput identifier="$outputsize" uid="3835855299" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_009/tiles_009" label="var03" >
+  <presetinput identifier="Cracks" uid="2656105045" type="0" value="1" />
+  <presetinput identifier="Peeling" uid="2656157495" type="0" value="0.76" />
+  <presetinput identifier="Contrast" uid="2656244894" type="0" value="-0.004" />
+  <presetinput identifier="Mortar_Color" uid="2656244895" type="2" value="0.612,0.541,0.51" />
+  <presetinput identifier="Stones_Color" uid="2656244907" type="2" value="0.302,0.31,0.298" />
+  <presetinput identifier="$outputsize" uid="3835855299" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

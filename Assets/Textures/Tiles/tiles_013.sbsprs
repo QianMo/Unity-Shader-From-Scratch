@@ -1,0 +1,32 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://tiles_013/tiles_013" label="var01" >
+  <presetinput identifier="Tiles_Amount" uid="515260627" type="4" value="5" />
+  <presetinput identifier="Color_Variations" uid="515267697" type="0" value="0" />
+  <presetinput identifier="$randomseed" uid="856972069" type="4" value="733857144" />
+  <presetinput identifier="Hue_Shift" uid="1631253694" type="0" value="0.048" />
+  <presetinput identifier="$outputsize" uid="1684426103" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_013/tiles_013" label="var02" >
+  <presetinput identifier="Tiles_Amount" uid="515260627" type="4" value="16" />
+  <presetinput identifier="Color_Variations" uid="515267697" type="0" value="1" />
+  <presetinput identifier="Dirtiness_Sponge_Marks" uid="515270010" type="0" value="0.283" />
+  <presetinput identifier="Dirtiness" uid="515273432" type="0" value="0.597" />
+  <presetinput identifier="Tiles_1_Color" uid="515284573" type="2" value="1,0.541,0.078" />
+  <presetinput identifier="Tiles_2_Color" uid="515284922" type="2" value="0.616,0.427,0.125" />
+  <presetinput identifier="$randomseed" uid="856972069" type="4" value="733857144" />
+  <presetinput identifier="$outputsize" uid="1684426103" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_013/tiles_013" label="var03" >
+  <presetinput identifier="Tiles_Amount" uid="515260627" type="4" value="4" />
+  <presetinput identifier="Slopes" uid="515261176" type="0" value="0.466" />
+  <presetinput identifier="Color_Variations" uid="515267697" type="0" value="1" />
+  <presetinput identifier="Dirtiness_Sponge_Marks" uid="515270010" type="0" value="0.797" />
+  <presetinput identifier="Dirtiness" uid="515273432" type="0" value="0.933" />
+  <presetinput identifier="Tiles_1_Color" uid="515284573" type="2" value="1,1,1" />
+  <presetinput identifier="Tiles_2_Color" uid="515284922" type="2" value="0.035,0.035,0.035" />
+  <presetinput identifier="$randomseed" uid="856972069" type="4" value="-1005221578" />
+  <presetinput identifier="Light_Angle" uid="1631259498" type="0" value="0.119" />
+  <presetinput identifier="Emboss" uid="1631259634" type="0" value="0.996" />
+  <presetinput identifier="$outputsize" uid="1684426103" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>

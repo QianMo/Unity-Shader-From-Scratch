@@ -1,0 +1,47 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://Ceramic_Tile_05/Ceramic_Tile_05" label="var01" >
+  <presetinput identifier="Age" uid="2293717255" type="0" value="0.385" />
+  <presetinput identifier="Light_Angle" uid="2302048597" type="0" value="0.686" />
+  <presetinput identifier="Emboss" uid="2302048617" type="0" value="4.453" />
+  <presetinput identifier="Normal" uid="2302113328" type="0" value="0.575" />
+  <presetinput identifier="Contrast" uid="2302113618" type="0" value="0.094" />
+  <presetinput identifier="Hue_Shift" uid="2310211394" type="0" value="0.025" />
+  <presetinput identifier="Saturation" uid="2310211396" type="0" value="0.265" />
+  <presetinput identifier="Luminosity" uid="2310211399" type="0" value="0.563" />
+  <presetinput identifier="$outputsize" uid="2369911408" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3660835874" type="4" value="-2049149082" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_Tile_05/Ceramic_Tile_05" label="var02" >
+  <presetinput identifier="Age" uid="2293717255" type="0" value="0.385" />
+  <presetinput identifier="Tile_X" uid="2296234769" type="4" value="11" />
+  <presetinput identifier="Tile_Y" uid="2296234771" type="4" value="11" />
+  <presetinput identifier="Interspace" uid="2296236883" type="0" value="0.018" />
+  <presetinput identifier="Light_Angle" uid="2302048597" type="0" value="0.236" />
+  <presetinput identifier="Emboss" uid="2302048617" type="0" value="4.453" />
+  <presetinput identifier="Normal" uid="2302113328" type="0" value="0.575" />
+  <presetinput identifier="Contrast" uid="2302113618" type="0" value="0.094" />
+  <presetinput identifier="Hue_Shift" uid="2310211394" type="0" value="0.93" />
+  <presetinput identifier="Saturation" uid="2310211396" type="0" value="0.265" />
+  <presetinput identifier="Luminosity" uid="2310211399" type="0" value="0.563" />
+  <presetinput identifier="$outputsize" uid="2369911408" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3660835874" type="4" value="534047736" />
+  <presetinput identifier="Bevel" uid="4154517417" type="0" value="0.106" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://Ceramic_Tile_05/Ceramic_Tile_05" label="var03" >
+  <presetinput identifier="Age" uid="2293717255" type="0" value="0.933" />
+  <presetinput identifier="Tile_X" uid="2296234769" type="4" value="15" />
+  <presetinput identifier="Tile_Y" uid="2296234771" type="4" value="15" />
+  <presetinput identifier="Interspace" uid="2296236883" type="0" value="0.722" />
+  <presetinput identifier="Light_Angle" uid="2302048597" type="0" value="0.108" />
+  <presetinput identifier="Emboss" uid="2302048617" type="0" value="9.785" />
+  <presetinput identifier="Normal" uid="2302113328" type="0" value="0.615" />
+  <presetinput identifier="Contrast" uid="2302113618" type="0" value="0.201" />
+  <presetinput identifier="Depth" uid="2302559658" type="0" value="0.516" />
+  <presetinput identifier="Hue_Shift" uid="2310211394" type="0" value="0.93" />
+  <presetinput identifier="Saturation" uid="2310211396" type="0" value="0.168" />
+  <presetinput identifier="Luminosity" uid="2310211399" type="0" value="0.561" />
+  <presetinput identifier="$outputsize" uid="2369911408" type="8" value="10,10" />
+  <presetinput identifier="$randomseed" uid="3660835874" type="4" value="534047736" />
+  <presetinput identifier="Bevel" uid="4154517417" type="0" value="0.634" />
+ </sbspreset>
+</sbspresets>

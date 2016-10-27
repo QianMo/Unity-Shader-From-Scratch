@@ -1,0 +1,37 @@
+<sbspresets formatversion="1.0" count="3" >
+ <sbspreset pkgurl="pkg://tiles_006/tiles_006" label="var01" >
+  <presetinput identifier="Contrast" uid="2636633196" type="0" value="0.314" />
+  <presetinput identifier="Weathering" uid="2636890460" type="0" value="1" />
+  <presetinput identifier="Depth" uid="3803718844" type="0" value="0.012" />
+  <presetinput identifier="Luminosity" uid="3803828527" type="0" value="0.53" />
+  <presetinput identifier="Saturation" uid="3803828538" type="0" value="0.46" />
+  <presetinput identifier="$outputsize" uid="3890571412" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_006/tiles_006" label="var02" >
+  <presetinput identifier="Tiles_01_Color" uid="2636417629" type="2" value="0.475,0.541,0.588" />
+  <presetinput identifier="Contrast" uid="2636633196" type="0" value="-0.012" />
+  <presetinput identifier="Tiles_02_Color_02" uid="2636709778" type="2" value="0.725,0.725,0.725" />
+  <presetinput identifier="Tiles_02_Color_01" uid="2636709779" type="2" value="0.271,0.275,0.529" />
+  <presetinput identifier="Scale" uid="2636890463" type="4" value="5" />
+  <presetinput identifier="Depth" uid="3803718844" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="3803721294" type="0" value="0.062" />
+  <presetinput identifier="Relief_Balance" uid="3803721720" type="0" value="0.5" />
+  <presetinput identifier="Luminosity" uid="3803828527" type="0" value="0.498" />
+  <presetinput identifier="Saturation" uid="3803828538" type="0" value="0.52" />
+  <presetinput identifier="$outputsize" uid="3890571412" type="8" value="9,9" />
+ </sbspreset>
+ <sbspreset pkgurl="pkg://tiles_006/tiles_006" label="var03" >
+  <presetinput identifier="Tiles_01_Color" uid="2636417629" type="2" value="0.098,0.082,0.102" />
+  <presetinput identifier="Contrast" uid="2636633196" type="0" value="-0.012" />
+  <presetinput identifier="Tiles_02_Color_02" uid="2636709778" type="2" value="0.345,0.345,0.345" />
+  <presetinput identifier="Tiles_02_Color_01" uid="2636709779" type="2" value="0.941,0.91,0.929" />
+  <presetinput identifier="Scale" uid="2636890463" type="4" value="3" />
+  <presetinput identifier="$randomseed" uid="2962718406" type="4" value="1223239226" />
+  <presetinput identifier="Depth" uid="3803718844" type="0" value="-1" />
+  <presetinput identifier="Normal" uid="3803721294" type="0" value="0.062" />
+  <presetinput identifier="Relief_Balance" uid="3803721720" type="0" value="0.5" />
+  <presetinput identifier="Luminosity" uid="3803828527" type="0" value="0.474" />
+  <presetinput identifier="Saturation" uid="3803828538" type="0" value="0.52" />
+  <presetinput identifier="$outputsize" uid="3890571412" type="8" value="9,9" />
+ </sbspreset>
+</sbspresets>
