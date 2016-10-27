@@ -24,7 +24,8 @@ Shader"ShaderFromScarach/Fixed-Function/1.5 Glass"
                 Diffuse [_Color]
             }
             Lighting On
-            SetTexture [_Reflections] {
+            SetTexture [_Reflections] 
+            {
                 combine texture
                 Matrix [_Reflection]
             }
