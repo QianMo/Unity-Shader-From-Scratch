@@ -1,4 +1,4 @@
-﻿Shader"ShaderFromScarach/Surface/4.Rim Lighting"
+﻿Shader"ShaderFromScarach/Surface/2.5 Rim Lighting with Detail Texture"
 {
 	Properties
 	{

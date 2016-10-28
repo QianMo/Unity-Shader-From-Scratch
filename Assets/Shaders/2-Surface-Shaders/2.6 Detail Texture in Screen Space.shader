@@ -1,4 +1,4 @@
-﻿Shader"ShaderFromScarach/Surface/4.Rim Lighting"
+﻿Shader"ShaderFromScarach/Surface/2.6 Detail Texture in Screen Space"
 {
 	Properties
 	{

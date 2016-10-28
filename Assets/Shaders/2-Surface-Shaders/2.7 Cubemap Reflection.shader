@@ -1,4 +1,4 @@
-﻿Shader"ShaderFromScarach/Surface/7 Cubemap Reflection"
+﻿Shader"ShaderFromScarach/Surface/2.7 Cubemap Reflection"
 {
 	Properties
 	{
