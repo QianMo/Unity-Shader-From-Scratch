@@ -6,7 +6,7 @@
 		_BumpTex("Bump Texture",2D) = "black"{}
 		_Detail("Detail",2D) = "gray"{} 
 		_RimColor("Rim Color",Color)=(0.3,0.0,0.3,1.0)
-		_RimPower("RimP Power",Range(0.0,10.0)) = 3.0
+		_RimPower("RimP Power",Range(0.0,100.0)) = 50.0
 	}
 
 	SubShader

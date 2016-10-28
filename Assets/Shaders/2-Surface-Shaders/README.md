@@ -1,4 +1,4 @@
-#Surface Shader writing
+#Surface Shader Writing
 
 Writing shaders that interact with lighting is complex. There are different light types, different shadow options, different rendering paths (forward and deferred rendering), and the shader should somehow handle all that complexity.
 
@@ -47,5 +47,5 @@ or
 	};
 
 
-#reference
+#Reference
 [https://docs.unity3d.com/Manual/SL-SurfaceShaders.html](https://docs.unity3d.com/Manual/SL-SurfaceShaders.html)
